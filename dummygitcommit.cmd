@@ -2,4 +2,7 @@ echo off
 echo %date% @ %time% > tempfile.tmp
 git add -A
 git commit -m "This was committed by cloud commit AWS, helps to greenify github activity log"
-git push origin master
+git push origin master -f
+
+wait 10
+pause
