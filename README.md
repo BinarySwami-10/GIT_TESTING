@@ -1,5 +1,5 @@
 ## Hey Recruiter / Interviewer
-if you reached here by viewing my resume, yes this is live demo of my technical expertise. idk what else do you want. but this project is assurance that i can get stuff done on cloud, and any automation task you can imagine. we are speaking of high level autonomy here.
+if you reached here by viewing my resume, yes this is live demo of my technical expertise.  this project is assurance that i can get stuff done on cloud, and any automation task you can imagine. we are speaking of high level autonomy here.
 
 # What Does this do? 
 Gitcron commits a small change in code to github code repository, it creates impression that im working round the clock. this was a Cloud automation project by Nikhil swami (the webmaster)! every 10 mins it changes small code, and the AWS EC2 instance (ie the cloud computer) pushes the code to this repo. and that eventually adds up to my contributions activity, and appears green as you can see here [BinarySwami-10](https://github.com/BinarySwami-10)
